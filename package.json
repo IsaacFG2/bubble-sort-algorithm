@@ -1,0 +1,25 @@
+{
+  "name": "@isaacfg/bubble-sort-algorithm",
+  "version": "0.0.2",
+  "description": "A very simple Bubble Sort library.",
+  "main": "index.js",
+  "author": "Isaac Ferreira Garcês <isaacferreiragarces2609@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"a\" && exit 1"
+  },
+  "keywords": [
+    "bubble",
+    "sort",
+    "algorithm"
+  ],
+  "dependencies": {
+    "@isaacfg/bubble-sort-algorithm": "^0.0.2"
+  },
+  "homepage": "https://github.com/IsaacFG2/bubble-sort-algorithm#readme",
+  "bugs": {
+    "url": "https://githIsaacFGIsaacFG2/bubble-sort-algorithm/issues",
+    "email": "isaacferreiragarces2609@gmail.com"
+  },
+  "repository": "github:IsaacFG2/bubble-sort-algorithm"
+}
